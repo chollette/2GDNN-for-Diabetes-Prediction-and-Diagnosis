@@ -14,9 +14,12 @@ Predict Missing values
 
 Random Forest Learning and Optimization for Diabetes Prediction
 * Run Prepare Data for Prediction.ipynb
-* Run RAndomForest&Optimization.ipynb
+* Run RAndomForest&Optimization-PIMA.ipynb
+* Run RAndomForest&Optimization-LMCH.ipynb
 
-
+Others
+* Run 2GDNN
+* RUN O2GDNN
 
 
 
