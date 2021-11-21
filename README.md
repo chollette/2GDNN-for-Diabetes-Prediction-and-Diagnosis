@@ -18,8 +18,9 @@ Random Forest Learning and Optimization for Diabetes Prediction
 * Run RAndomForest&Optimization-LMCH.ipynb
 
 Others
-* Run 2GDNN
-* RUN O2GDNN
+* Run diabetes-2GDNN-PIMA
+* RUN diabetes-2GDNN-LMCH
+* Run O2GDNN
 
 
 
